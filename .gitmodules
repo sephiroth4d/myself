@@ -1,0 +1,3 @@
+[submodule "myself"]
+	path = myself
+	url = git@github.com:sephiroth4d/myself.git
